@@ -37,6 +37,6 @@ jobs:
           username: ${{ secrets.DEV_SSH_USERNAME }}
           port: ${{ secrets.DEV_SSH_PORT }}
           key: ${{ secrets.DEV_SSH_KEY }}
-          source: "./dist/*"
+          source: "./docs/.vuepress/dist/*"
           target: "/usr/wwwroot/helloadmin/doc"
           strip_components: 1
