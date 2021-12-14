@@ -17,9 +17,17 @@ module.exports = {
             // }
         ],
         // 添加侧边栏
-        sidebar: 'auto',
+        sidebar: {
+          '/guide/': [{
+            title: 'test',
+            collapsable: false,
+            children: [
+              'basic/base.md'
+            ]
+          }]
+        },
         sidebarDepth: 2,
-        globalLayout: 'layouts/GlobalLayout.vue',
-        main: 'layouts/Layout.vue',
+        // globalLayout: 'layouts/GlobalLayout.vue',
+        // main: 'layouts/Layout.vue',
     }
   }
