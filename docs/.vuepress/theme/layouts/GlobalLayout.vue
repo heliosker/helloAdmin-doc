@@ -6,7 +6,7 @@
           <a href="/"><strong>HelloAdmin</strong></a>
         </div>
         <div class="n_item n_right">
-          <a href="#">在线体验</a>
+          <a href="http://demo.helloadmin.cn">在线体验</a>
           <a href="#">关于我们</a>
           <a href="https://github.com/heliosker/helloadmin-ui">GitHub</a>
         </div>
