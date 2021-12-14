@@ -39,4 +39,4 @@ jobs:
           key: ${{ secrets.DEV_SSH_KEY }}
           source: "./docs/.vuepress/dist/*"
           target: "/usr/wwwroot/helloadmin/doc"
-          strip_components: 1
+          strip_components: 3
