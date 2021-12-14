@@ -8,7 +8,7 @@
                 使用Gin + vue3快速开发后台管理系统
             </div>
             <div class="c_btn">
-                <a href="#">快速开始</a>
+                <a href="/guide/basic/base">快速开始</a>
             </div>
         </div>
         <div class="feature">
