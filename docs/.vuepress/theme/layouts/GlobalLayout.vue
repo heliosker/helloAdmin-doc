@@ -33,6 +33,9 @@
             <a href="https://beian.miit.gov.cn/#/Integrated/index">
               沪ICP备2021028462号-3</a
             >
+            <a href="http://wap.scjgj.sh.gov.cn/businessCheck/verifKey.do?showType=extShow&serial=9031000020200902114821000006279656-SAIC_SHOW_310000-2022012010190859555&signData=MEYCIQCDgFCs3Blerh8irYwUBhOwI8nqTOfaZ7t230fCaCW5bQIhAOL7Aq7Hz57312KJUnsChCgQWI8YZ/XBJpf41CugHwHj" target="_blank">
+                <img style="width: 20px; vertical-align: middle;" :src="$withBase('./record.png')" alt="">
+            </a>
           </div>
         </div>
       </div>
